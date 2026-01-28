@@ -16,7 +16,7 @@ This project was developed to demonstrate proficiency in **Network Socket Progra
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/ismailjumayev/Python-Port-Scanner.git](https://github.com/YOUR_USERNAME/Python-Port-Scanner.git)
+    git clone [https://github.com/ismailjumayev/Python-Port-Scanner.git](https://github.com/ismailjumayev/Python-Port-Scanner.git)
     ```
 2.  **Navigate to the directory:**
     ```bash
@@ -60,3 +60,4 @@ Scanning a deliberately vulnerable machine (Metasploitable):
 This tool is created for educational purposes and authorized security testing only.
 Scanning networks or machines without explicit permission is illegal and unethical.
 The author accepts no responsibility for unauthorized use.
+
